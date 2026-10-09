@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/modelcontextprotocol/experimental-ext-variants/commit/cfc05d6f5eb8829f9896d44a6d47360bd15c3b5c",
       "git:hexsha": "cfc05d6f5eb8829f9896d44a6d47360bd15c3b5c",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "main"
     }
   ]
