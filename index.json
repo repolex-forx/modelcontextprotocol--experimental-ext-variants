@@ -1,0 +1,11 @@
+{
+  "org": "modelcontextprotocol",
+  "repo": "experimental-ext-variants",
+  "versions": [
+    {
+      "commit": "cfc05d6f5eb8829f9896d44a6d47360bd15c3b5c",
+      "tag": "main",
+      "parsed_at": "2026-10-09T03:48:13.153484+00:00"
+    }
+  ]
+}
